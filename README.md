@@ -280,8 +280,6 @@ For information about the governance of the Node.js project, see
 **Beth Griggs** &lt;bgriggs@redhat.com&gt; (she/her)
 * [bmeck](https://github.com/bmeck) -
 **Bradley Farias** &lt;bradley.meck@gmail.com&gt;
-* [bmeurer](https://github.com/bmeurer) -
-**Benedikt Meurer** &lt;benedikt.meurer@gmail.com&gt;
 * [boneskull](https://github.com/boneskull) -
 **Christopher Hiller** &lt;boneskull@boneskull.com&gt; (he/him)
 * [BridgeAR](https://github.com/BridgeAR) -
@@ -326,8 +324,6 @@ For information about the governance of the Node.js project, see
 **Gerhard Stöbich** &lt;deb2001-github@yahoo.de&gt;  (he/they)
 * [gabrielschulhof](https://github.com/gabrielschulhof) -
 **Gabriel Schulhof** &lt;gabrielschulhof@gmail.com&gt;
-* [geek](https://github.com/geek) -
-**Wyatt Preul** &lt;wpreul@gmail.com&gt;
 * [gengjiawen](https://github.com/gengjiawen) -
 **Jiawen Geng** &lt;technicalcute@gmail.com&gt;
 * [GeoffreyBooth](https://github.com/geoffreybooth) -
@@ -384,8 +380,6 @@ For information about the governance of the Node.js project, see
 **Milad Fa** &lt;mfarazma@redhat.com&gt; (he/him)
 * [mildsunrise](https://github.com/mildsunrise) -
 **Alba Mendez** &lt;me@alba.sh&gt; (she/her)
-* [misterdjules](https://github.com/misterdjules) -
-**Julien Gilli** &lt;jgilli@netflix.com&gt;
 * [mmarchini](https://github.com/mmarchini) -
 **Mary Marchini** &lt;oss@mmarchini.me&gt; (she/her)
 * [mscdex](https://github.com/mscdex) -
@@ -404,8 +398,6 @@ For information about the governance of the Node.js project, see
 **Stephen Belanger** &lt;admin@stephenbelanger.com&gt; (he/him)
 * [RaisinTen](https://github.com/RaisinTen) -
 **Darshan Sen** &lt;raisinten@gmail.com&gt; (he/him)
-* [refack](https://github.com/refack) -
-**Refael Ackermann (רפאל פלחי)** &lt;refack@gmail.com&gt; (he/him/הוא/אתה)
 * [rexagod](https://github.com/rexagod) -
 **Pranshu Srivastava** &lt;rexagod@gmail.com&gt; (he/him)
 * [richardlau](https://github.com/richardlau) -
@@ -420,8 +412,6 @@ For information about the governance of the Node.js project, see
 **Rod Vagg** &lt;rod@vagg.org&gt;
 * [ryzokuken](https://github.com/ryzokuken) -
 **Ujjwal Sharma** &lt;ryzokuken@disroot.org&gt; (he/him)
-* [saghul](https://github.com/saghul) -
-**Saúl Ibarra Corretgé** &lt;s@saghul.net&gt;
 * [santigimeno](https://github.com/santigimeno) -
 **Santiago Gimeno** &lt;santiago.gimeno@gmail.com&gt;
 * [seishun](https://github.com/seishun) -
@@ -458,8 +448,6 @@ For information about the governance of the Node.js project, see
 **Yash Ladha** &lt;yash@yashladha.in&gt; (he/him)
 * [yhwang](https://github.com/yhwang) -
 **Yihong Wang** &lt;yh.wang@ibm.com&gt;
-* [yorkie](https://github.com/yorkie) -
-**Yorkie Liu** &lt;yorkiefixer@gmail.com&gt;
 * [yosuke-furukawa](https://github.com/yosuke-furukawa) -
 **Yosuke Furukawa** &lt;yosuke.furukawa@gmail.com&gt;
 * [ZYSzys](https://github.com/ZYSzys) -
@@ -481,6 +469,8 @@ For information about the governance of the Node.js project, see
 **Andreas Madsen** &lt;amwebdk@gmail.com&gt; (he/him)
 * [aqrln](https://github.com/aqrln) -
 **Alexey Orlenko** &lt;eaglexrlnk@gmail.com&gt; (he/him)
+* [bmeurer](https://github.com/bmeurer) -
+**Benedikt Meurer** &lt;benedikt.meurer@gmail.com&gt;
 * [bnoordhuis](https://github.com/bnoordhuis) -
 **Ben Noordhuis** &lt;info@bnoordhuis.nl&gt;
 * [brendanashworth](https://github.com/brendanashworth) -
@@ -503,6 +493,8 @@ For information about the governance of the Node.js project, see
 **Daniel Wang** &lt;wangyang0123@gmail.com&gt;
 * [gdams](https://github.com/gdams) -
 **George Adams** &lt;george.adams@microsoft.com&gt; (he/him)
+* [geek](https://github.com/geek) -
+**Wyatt Preul** &lt;wpreul@gmail.com&gt;
 * [gibfahn](https://github.com/gibfahn) -
 **Gibson Fahnestock** &lt;gibfahn@gmail.com&gt; (he/him)
 * [glentiki](https://github.com/glentiki) -
@@ -547,6 +539,8 @@ For information about the governance of the Node.js project, see
 **Nicu Micleușanu** &lt;micnic90@gmail.com&gt; (he/him)
 * [mikeal](https://github.com/mikeal) -
 **Mikeal Rogers** &lt;mikeal.rogers@gmail.com&gt;
+* [misterdjules](https://github.com/misterdjules) -
+**Julien Gilli** &lt;jgilli@netflix.com&gt;
 * [monsanto](https://github.com/monsanto) -
 **Christopher Monsanto** &lt;chris@monsan.to&gt;
 * [MoonBall](https://github.com/MoonBall) -
@@ -573,6 +567,8 @@ For information about the governance of the Node.js project, see
 **Prince John Wesley** &lt;princejohnwesley@gmail.com&gt;
 * [psmarshall](https://github.com/psmarshall) -
 **Peter Marshall** &lt;petermarshall@chromium.org&gt; (he/him)
+* [refack](https://github.com/refack) -
+**Refael Ackermann (רפאל פלחי)** &lt;refack@gmail.com&gt; (he/him/הוא/אתה)
 * [rlidwka](https://github.com/rlidwka) -
 **Alex Kocharin** &lt;alex@kocharin.ru&gt;
 * [rmg](https://github.com/rmg) -
@@ -587,6 +583,8 @@ For information about the governance of the Node.js project, see
 **Ingvar Stepanyan** &lt;me@rreverser.com&gt;
 * [rubys](https://github.com/rubys) -
 **Sam Ruby** &lt;rubys@intertwingly.net&gt;
+* [saghul](https://github.com/saghul) -
+**Saúl Ibarra Corretgé** &lt;s@saghul.net&gt;
 * [sam-github](https://github.com/sam-github) -
 **Sam Roberts** &lt;vieuxtech@gmail.com&gt;
 * [sebdeckers](https://github.com/sebdeckers) -
@@ -611,6 +609,8 @@ For information about the governance of the Node.js project, see
 **Vse Mozhet Byt** &lt;vsemozhetbyt@gmail.com&gt; (he/him)
 * [whitlockjc](https://github.com/whitlockjc) -
 **Jeremy Whitlock** &lt;jwhitlock@apache.org&gt;
+* [yorkie](https://github.com/yorkie) -
+**Yorkie Liu** &lt;yorkiefixer@gmail.com&gt;
 
 </details>
 <!--lint enable prohibited-strings-->
